@@ -18,3 +18,6 @@
 HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects, such as interactive forms, may be embedded into the rendered page. </p><p style="margin-top:30px;">It provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes and other items. HTML elements are delineated by tags, written using angle brackets. </p>
 </body>
 </html>
+// 문서의 구조 강의 까지 실습 코드 정리
+// 웹사이트 만들기까지 수강 완료
+//그 다음 서버와 클라이언트 수강 중 내일 머리해야 되니까 자야지 
